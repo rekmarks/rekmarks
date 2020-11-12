@@ -1,6 +1,5 @@
 ### 🐐 
 
-- 🦊 I’m facilitating access to the decentralized web at MetaMask
-- 🌱 I’m currently learning about object capabilities
+- 🦊 I’m democratizing access to the decentralized web at MetaMask
 - 📫 I'm `@rekmarks` on most platforms
-- 👽 Pronouns: he/him, but we should all just use they/them
+- 👽 he/him/they
