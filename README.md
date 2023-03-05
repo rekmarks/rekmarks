@@ -1,5 +1,5 @@
 ### 🐐 
 
-- 🦊 Lead Engineer, MetaMask [Snaps](https://docs.metamask.io/guide/snaps.html) Platform Team
+- 🦊 Director of Product Management, MetaMask
 - 📫 I'm `@rekmarks` on most platforms
 - 👽 he/him/they
